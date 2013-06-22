@@ -1,0 +1,77 @@
+body {
+	background-color: #837E78;
+	font-family: "Times New Roman";
+}
+p{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+li{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+div.titulo{
+	background-color: #A1C9C8;
+	text-align: center;
+	width: auto;
+	height: 120px;
+	margin-top: -20px;
+	margin-left: -20px;
+	margin-right: -20px;
+	
+}
+div.infpersona{
+	background-color: #DCE0DF;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+}
+.curved {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    behavior:url(border-radius.htc);
+}
+div.todo {
+	overflow:auto;
+	background-color: #EEEEEE;
+	width:800px;
+	height:610px;
+	margin-left:auto;
+	margin-right:auto;
+}
+div.perfil{
+	background-color: #C1D2CC;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	margin-top: -20px;
+}
+div.info{
+	background-color: #DCE0DF;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+	width: 600px;
+	margin-top: -20px;
+}
+div.contacto{
+	background-color: #EEEEEE;
+	width: 185px;
+	height: auto;
+	margin-top: -629px;
+	margin-left: 1015px;
+}
+img{
+	margin-left: 30px;
+}
+h1{
+	font-family: fantasy;
+	font-weight: bolder;
+}
+h3{
+	font-family: fantasy;
+	font-style: oblique;
+	text-decoration: underline;
+}
